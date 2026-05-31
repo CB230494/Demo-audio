@@ -3,3 +3,4 @@ streamlit-mic-recorder
 openai-whisper
 ffmpeg-python
 torch
+python-docx
